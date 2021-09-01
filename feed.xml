@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:4D0F8D1D-12F8-49D5-9DBC-3D905809949B</id>
+ <title>Page list Atom feed</title>
+ <updated>2021-09-01T10:27:21+04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:CF3B82B6-B085-4419-9B5F-30768672E56A</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">CF3B82B6-B085-4419-9B5F-30768672E56A</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2021-09-01T10:27:21.001+04:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6BC0A530-0305-4BB8-9505-B7331158EF50</id>
+  <title>Video</title>
+  <title xmlns="urn:iweb:">Video</title>
+  <in-navbar xmlns="urn:iweb:">6BC0A530-0305-4BB8-9505-B7331158EF50</in-navbar>
+  <link rel="alternate" href="Video.html"/>
+  <updated>2021-09-01T10:27:21.002+04:00</updated>
+  <content>Video</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:BCB0DEA3-D00E-4B6D-863D-BD6A4D5B0AE1</id>
+  <title>About Me</title>
+  <title xmlns="urn:iweb:">About Me</title>
+  <in-navbar xmlns="urn:iweb:">BCB0DEA3-D00E-4B6D-863D-BD6A4D5B0AE1</in-navbar>
+  <link rel="alternate" href="About_Me.html"/>
+  <updated>2021-09-01T10:27:21.003+04:00</updated>
+  <content>About Me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EA661631-08D7-434C-AAEE-EA04E06D090B</id>
+  <title>Photos</title>
+  <title xmlns="urn:iweb:">Photos</title>
+  <in-navbar xmlns="urn:iweb:">EA661631-08D7-434C-AAEE-EA04E06D090B</in-navbar>
+  <link rel="alternate" href="Photos.html"/>
+  <updated>2021-09-01T10:27:21.004+04:00</updated>
+  <content>Photos</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C93C4A69-1E31-4766-BAA8-8DA362AC8DEA</id>
+  <title>My Albums</title>
+  <title xmlns="urn:iweb:">My Albums</title>
+  <in-navbar xmlns="urn:iweb:">C93C4A69-1E31-4766-BAA8-8DA362AC8DEA</in-navbar>
+  <link rel="alternate" href="My_Albums/My_Albums.html"/>
+  <updated>2021-09-01T10:27:21.005+04:00</updated>
+  <content>My Albums</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5A8080BC-4A56-4DF6-BFB8-B42EBC275092</id>
+  <title>Blog</title>
+  <title xmlns="urn:iweb:">Blog</title>
+  <in-navbar xmlns="urn:iweb:">5A8080BC-4A56-4DF6-BFB8-B42EBC275092</in-navbar>
+  <link rel="alternate" href="Blog/Blog.html"/>
+  <updated>2007-01-23T20:29:52+03:00</updated>
+  <content>Blog</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1EB740DB-14E0-4BC7-8A97-BD1848FA680A</id>
+  <title>Music</title>
+  <title xmlns="urn:iweb:">Music</title>
+  <in-navbar xmlns="urn:iweb:">1EB740DB-14E0-4BC7-8A97-BD1848FA680A</in-navbar>
+  <link rel="alternate" href="Music.html"/>
+  <updated>2021-09-01T10:27:21.006+04:00</updated>
+  <content>Music</content>
+ </entry>
+</feed>

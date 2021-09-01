@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://xdnu.github.io/xdnu.github.io/Blog</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</description>
+    <item>
+      <title>Day of longboarding</title>
+      <link>http://xdnu.github.io/xdnu.github.io/Blog/Entries/2021/8/29_Day_of_longboarding.html</link>
+      <guid isPermaLink="false">267330ab-b132-437a-9489-21e145b1badb</guid>
+      <pubDate>Sun, 29 Aug 2021 20:34:08 +0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://xdnu.github.io/xdnu.github.io/Blog/Entries/2021/8/29_Day_of_longboarding.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://xdnu.github.io/xdnu.github.io/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

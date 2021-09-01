@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Albums</title>
+    <link>http://xdnu.github.io/xdnu.github.io/My_Albums/My_Albums.html</link>
+    <description>My Albums</description>
+    <item>
+      <title>Movie</title>
+      <link>http://xdnu.github.io/xdnu.github.io/My_Albums/Pages/Movie.html</link>
+      <guid isPermaLink="false">38ca6bf3-3b6b-416e-ab31-de9ff866f0e7</guid>
+      <iphoto:thumbnail>http://xdnu.github.io/xdnu.github.io/My_Albums/My_Albums_files/Movie.jpg</iphoto:thumbnail>
+      <iweb:contents>0:00</iweb:contents>
+      <iweb:is-movie>true</iweb:is-movie>
+    </item>
+  </channel>
+</rss>

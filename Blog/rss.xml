@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Blog</title>
+    <link>http://xdnu.github.io/xdnu.github.io/Blog/Blog.html</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</description>
+    <generator>iWeb 3.0</generator>
+    <image>
+      <url>http://xdnu.github.io/xdnu.github.io/Blog/Blog_files/dv1634003_c.jpg</url>
+      <title>My Blog</title>
+      <link>http://xdnu.github.io/xdnu.github.io/Blog/Blog.html</link>
+    </image>
+    <item>
+      <title>Day of longboarding</title>
+      <link>http://xdnu.github.io/xdnu.github.io/Blog/Entries/2021/8/29_Day_of_longboarding.html</link>
+      <guid isPermaLink="false">267330ab-b132-437a-9489-21e145b1badb</guid>
+      <pubDate>Sun, 29 Aug 2021 20:34:08 +0400</pubDate>
+      <description>&lt;a href=&quot;http://xdnu.github.io/xdnu.github.io/Blog/Entries/2021/8/29_Day_of_longboarding_files/AA043081_3x4a-1.jpg&quot;&gt;&lt;img src=&quot;http://xdnu.github.io/xdnu.github.io/Blog/Media/object001_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce  a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet,  nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</description>
+      <enclosure url="http://xdnu.github.io/xdnu.github.io/Blog/Entries/2021/8/29_Day_of_longboarding_files/AA043081_3x4a-1.jpg" length="39269" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
